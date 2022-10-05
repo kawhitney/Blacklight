@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Other VS files
+*.vcsproj.user
+*.vcsproj.filter
+
+# Game folders
+**/.vs
+**/x64
