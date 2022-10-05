@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!-- Game settings -->
+
+<settings>
+  <game name="Blacklight" />
+  <renderer width="1024" height="768"/>
+   
+  <font file="Media\Fonts\DELUSION.TTF"/>
+
+  <!-- sprites -->
+   
+  <sprites path="Media\Images">
+    <sprite name="background1" file="background1.png"/>
+  </sprites>
+
+  <!-- sound -->
+  
+  <sounds path="Media\Sounds">
+    <sound name="level1" file="147628__setuniman__memories-0i-20mi.wav" instances="8"/>
+  </sounds>
+</settings>
